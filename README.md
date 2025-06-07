@@ -72,4 +72,3 @@ Para una mejor comprensión del avance logrado hasta la fecha, se puede acceder 
 
 ---
 
-Gracias por su atención y retroalimentación.
